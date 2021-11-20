@@ -1,0 +1,35 @@
+*{
+    padding:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    text-align: center;
+    width: 50%;
+    background-color: rgb(80, 116, 192);
+    margin: 23px;
+}
+input,textarea{
+    border: 2px solid black;
+    border-radius: 5px;
+    outline: none;
+    width: 11px 0px;
+    margin: 11px 0px;
+    padding: 7px;
+}
+ button{
+    color:burlywood;
+    background: rgb(107, 15, 15);
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.bgmi{
+    width: 70%;
+    height: 80%;
+    margin: 20pt;
+}
